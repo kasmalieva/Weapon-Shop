@@ -4,6 +4,7 @@
 * [Information about Web Application](#Information-about-Web-Application)
 * [API Description](#API-Description)
 * [Instruments](#Instruments)
+* [Security Config](#UserId-and-Password)
 
 
 ![Screen Recording 2021-04-21 at 10 29 47 PM](https://user-images.githubusercontent.com/73914544/115589168-5c0b6200-a2f1-11eb-8cfb-33bcce449898.gif)
@@ -20,6 +21,11 @@
 ## Heroku Link
 
 * https://greenshopala.herokuapp.com/
+
+## UserId-and-Password
+
+* User ID: user
+* User PASSWORD: 123
 
 ## Information about Web Application
 
