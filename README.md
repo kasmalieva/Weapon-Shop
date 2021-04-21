@@ -1,7 +1,7 @@
 # Weapon-Shop
 
 * [Heroku Link](#heroku-link)
-* [Information about Web Application](#Information about Web Application)
+* [Information about Web Application](#Information-about-Web-Application)
 * [API Description](#API-Description)
 * [Instruments](#Instruments)
 
