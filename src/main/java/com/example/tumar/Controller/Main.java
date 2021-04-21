@@ -34,6 +34,10 @@ public class Main {
     public String about(){
         return "about";
     }
+    @GetMapping("/buy")
+    public String buy(){
+        return "buy";
+    }
 
     @GetMapping("/closeCombat")
     public String getCloseCombat(Model model){
